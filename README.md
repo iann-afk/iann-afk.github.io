@@ -1,12 +1,12 @@
 # Recall
 
-Privacy Policy — Token Monitor
+Privacy Policy — Recall
 
 Last updated: 2026-05-05_
 
 ## What we collect
 
-**Nothing leaves your device.** Token Monitor does not collect, transmit, sell,
+**Nothing leaves your device.** Recall does not collect, transmit, sell,
 or share any personal information, conversation content, browsing history, or
 usage analytics with us or any third party.
 
@@ -34,7 +34,7 @@ The extension uses the standard Chrome Storage API to save your settings:
 
 We do not have a server. Data stored here is owned and controlled by you and
 your Chrome profile, and can be cleared at any time from
-`chrome://extensions` → Token Monitor → "Site data" / by uninstalling.
+`chrome://extensions` → Recall → "Site data" / by uninstalling.
 
 ## Permissions explained
 
